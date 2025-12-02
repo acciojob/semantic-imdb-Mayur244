@@ -51,12 +51,12 @@ h2 {
 	font-size: 20px;
 }
 
-#actor, #quote {
+#nav-actor, #nav-quote {
 	border: 1px solid white;
 	padding: 20px;
 }
 
-#actor, #quote {
+#nav-actor, #nav-quote {
 	width: full;
 }
 
